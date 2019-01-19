@@ -1,0 +1,16 @@
+{
+  "wallpapers": [
+    {
+      "author": "Unsplash",
+      "url": "https://raw.githubusercontent.com/ChrisjackCC/AlchemyWalls/master/Wall%2001.jpg",
+      "name": "Wall 01",
+      "thumbnail": "https://raw.githubusercontent.com/ChrisjackCC/AlchemyWalls/master/Wall%2001%20(1).jpg"
+    },
+    {
+      "author": "Unsplash",
+      "url": "https://raw.githubusercontent.com/ChrisjackCC/AlchemyWalls/master/Wall%2002.jpg",
+      "name": "Wall 02",
+      "thumbnail": "https://raw.githubusercontent.com/ChrisjackCC/AlchemyWalls/master/Wall%2002%20(2).jpg"
+    }
+  ]
+}
